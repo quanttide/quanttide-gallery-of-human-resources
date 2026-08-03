@@ -9,7 +9,7 @@
 ## [Unreleased]
 
 ### Added
-- 新增培训案例《一人一策的阶梯式培养》（training/ 目录）
+- 新增培训案例三篇（training/ 目录，三个视角）：员工篇（case-employee-perspective）、管理者篇（case-manager-perspective）、商务经理专项（case-business-manager）
 
 ## [0.1.0] - 2026-08-03
 

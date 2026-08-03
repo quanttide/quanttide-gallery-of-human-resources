@@ -4,4 +4,6 @@
 
 ## 案例目录
 
-- [training/case-tiered-development.md](training/case-tiered-development.md)：基于 CEO 与核心成员真实协作记录脱敏整理的人才培养案例。
+- [training/case-employee-perspective.md](training/case-employee-perspective.md)：员工篇——从执行到思考的成长之路。
+- [training/case-manager-perspective.md](training/case-manager-perspective.md)：管理者篇——如何把下属培养成人才。
+- [training/case-business-manager.md](training/case-business-manager.md)：商务经理专项——客户关系与商务能力的养成。
