@@ -89,4 +89,4 @@ CEO 对建档工作的定位是"兼具学习功能"——**档案既是公司资
 
 ---
 
-*相关阅读：[员工篇](case-employee-perspective.md)（成长者视角）· [管理者篇](case-manager-perspective.md)（培养者视角）*
+*相关阅读：[员工篇](employee-perspective.md)（成长者视角）· [管理者篇](manager-perspective.md)（培养者视角）*

@@ -106,4 +106,4 @@ CEO 反复推动下属把个人经验沉淀为组织资产：
 
 ---
 
-*相关阅读：[员工篇](case-employee-perspective.md)（成长者视角）· [商务经理专项](case-business-manager.md)（岗位视角）*
+*相关阅读：[员工篇](employee-perspective.md)（成长者视角）· [商务经理专项](business-manager.md)（岗位视角）*

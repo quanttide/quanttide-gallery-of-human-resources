@@ -90,4 +90,4 @@ CEO 评价 COO 成长时说过："你已经在大量思考高级的事情了。"
 
 ---
 
-*相关阅读：[管理者篇](case-manager-perspective.md)（培养者视角）· [商务经理专项](case-business-manager.md)（岗位视角）*
+*相关阅读：[管理者篇](manager-perspective.md)（培养者视角）· [商务经理专项](business-manager.md)（岗位视角）*

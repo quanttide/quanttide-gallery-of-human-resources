@@ -4,6 +4,6 @@
 
 ## 案例目录
 
-- [training/case-employee-perspective.md](training/case-employee-perspective.md)：员工篇——从执行到思考的成长之路。
-- [training/case-manager-perspective.md](training/case-manager-perspective.md)：管理者篇——如何把下属培养成人才。
-- [training/case-business-manager.md](training/case-business-manager.md)：商务经理专项——客户关系与商务能力的养成。
+- [training/employee-perspective.md](training/employee-perspective.md)：员工篇——从执行到思考的成长之路。
+- [training/manager-perspective.md](training/manager-perspective.md)：管理者篇——如何把下属培养成人才。
+- [training/business-manager.md](training/business-manager.md)：商务经理专项——客户关系与商务能力的养成。
