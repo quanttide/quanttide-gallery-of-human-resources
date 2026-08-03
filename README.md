@@ -4,4 +4,4 @@
 
 ## 案例目录
 
-- [培训/一人一策的阶梯式培养工作案例](培训/一人一策的阶梯式培养工作案例.md)：基于 CEO 与核心成员真实协作记录脱敏整理的人才培养案例。
+- [training/case-tiered-development.md](training/case-tiered-development.md)：基于 CEO 与核心成员真实协作记录脱敏整理的人才培养案例。
